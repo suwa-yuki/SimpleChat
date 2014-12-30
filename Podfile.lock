@@ -1,0 +1,13 @@
+PODS:
+  - JSQMessagesViewController (6.1.1):
+    - JSQSystemSoundPlayer (~> 2.0.0)
+  - JSQSystemSoundPlayer (2.0.0)
+
+DEPENDENCIES:
+  - JSQMessagesViewController
+
+SPEC CHECKSUMS:
+  JSQMessagesViewController: 84a5823a1f6a4f29ee6d4db0ea4b9d63876be4ee
+  JSQSystemSoundPlayer: c98443b1cbb3b45db09d0d3d6c2355cf78294981
+
+COCOAPODS: 0.35.0
